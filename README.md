@@ -17,7 +17,7 @@ Alongside data, I have a deep love for **languages and cultures**. I speak:
 *(in order of fluency)*
 
 ## 📌 Projects & Practice
-I'm actively sharing my learning journey through public notebooks on [Kaggle](https://www.kaggle.com/marwanehosni), where I experiment with real-world datasets, practice feature engineering, and improve my modeling skills — one project at a time.
+I'm actively sharing my learning journey through public notebooks on [Kaggle](https://www.kaggle.com/marwanehosni), where I experiment with real-world datasets, practice feature engineering, and improve my modeling skills.
 
 ### 🥉 Medal-Winning Work 
 - 🧪 **[Predicting Optimal Fertilizers](https://www.kaggle.com/code/marwanehosni/predicting-opt-fertilizers-eda-fe-and-modeling)**  
