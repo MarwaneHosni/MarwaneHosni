@@ -33,6 +33,6 @@ I'm actively sharing my learning journey through public notebooks on [Kaggle](ht
 > 💡 See more of my notebooks and datasets on [Kaggle →](https://www.kaggle.com/marwanehosni)
 
 ## 🌍 Why I Do This
-My goal is to grow into someone who can **build useful tools* while also **connecting both worlds of AI and Language Learning**. I believe in learning by doing and sharing my process as I go.
+My goal is to grow into someone who can *build useful tools* while also **connecting both worlds of AI and Language Learning**. I believe in learning by doing and sharing my process as I go.
 
 Thanks for stopping by. ☺️
