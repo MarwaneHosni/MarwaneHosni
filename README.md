@@ -1,38 +1,25 @@
-# 👋 Hi, I'm Marwane
+# Hey, I'm Marwane 👋
 
-I'm diving into the world of **Data Science**, **Data Analysis**, and **Machine Learning**, learning through hands on projects, real world challenges, and lots of trial and error.
+**Software Engineer | Full-Stack Developer** Building scalable systems and elegant web experiences from Tangier, Morocco.
 
-## 💡 What I’m About
+---
 
-Not an expert (yet!), but I am passionate about using data and AI to explore and solve real-world problems.
+### 🛠️ Tech Stack
+**Languages & Frameworks:** TypeScript, JavaScript, Python, React, Next.js, Node.js  
+**Backend & Database:** PostgreSQL, Prisma, Supabase, Express  
+**Styling:** Tailwind CSS
 
-Alongside data, I have a deep love for **languages and cultures**. I speak:
-- 🇪🇸 Spanish  
-- 🇸🇦 Arabic  
-- 🇬🇧 English  
-- 🇫🇷 French  
-- 🇮🇹 Italian  
-- 🇯🇵 Japanese  
-- 🇩🇪 German  
-*(in order of fluency)*
+### 🌍 Languages
+* **Native:** Arabic, Spanish
+* **Fluent:** English, Japanese (N2), French, Italian, Portuguese
+* **Intermediate:** German
 
-## 📌 Projects & Practice
-I'm actively sharing my learning journey through public notebooks on [Kaggle](https://www.kaggle.com/marwanehosni), where I experiment with real-world datasets, practice feature engineering, and improve my modeling skills.
+### 🚀 Featured Projects
+* **Botsu:** Centralized immersive language learning.
+* **Cosmos Playpen:** Celestial orbital system simulator.
+* **YomuKey:** EPUB reader for Japanese learners.
+  
+---
 
-### 🥉 Medal-Winning Work 
-- 🧪 **[Predicting Optimal Fertilizers](https://www.kaggle.com/code/marwanehosni/predicting-opt-fertilizers-eda-fe-and-modeling)**  
-  Notebook submission for Kaggle competition: EDA + Feature Engineering + Modeling for agritech applications  
-
-### 📊 Recent Notebooks
-- 👩‍💻 **[TelCo Churn Prediction & Retention](https://www.kaggle.com/code/marwanehosni/telco-customer-churn-prediction-retention)**  
-  Synthetic messy data cleaning and churn modeling  
-
-- 💸 **[Unified Payments Interface (UPI) – EDA & Forecasting](https://www.kaggle.com/code/marwanehosni/unified-payments-interface-eda-modeling)**  
-  Exploratory analysis on India’s real-time payment system  
-
-> 💡 See more of my notebooks and datasets on [Kaggle →](https://www.kaggle.com/marwanehosni)
-
-## 🌍 Why I Do This
-My goal is to grow into someone who can *build useful tools* while also **connecting both worlds of AI and Language Learning**. I believe in learning by doing and sharing my process as I go.
-
-Thanks for stopping by. ☺️
+### 📬 Connect
+[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) • [Portfolio](https://marhos.vercel.app) • [Email](mailto:marwane.hosni@gmail.com)
