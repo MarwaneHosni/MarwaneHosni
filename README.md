@@ -1,6 +1,6 @@
 # Hey, I'm Marwane 👋
 
-**Junior full-stack** developer focused on **backend** from Tangier, Morocco. Outside of software, I speak **8 languages**
+**Full-stack** developer focused on **backend** from Tangier, Morocco. Outside of software, I speak **8 languages**
 and I am a geography/space enthusiast.
 
 ---
