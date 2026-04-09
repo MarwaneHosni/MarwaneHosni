@@ -16,12 +16,12 @@ and I am a geography/space enthusiast.
 * **YomuKey:** EPUB reader for Japanese learners. 🗾 [Check it out](https://yomu-key.vercel.app/)
 
 ### 🌍 Languages
-* **Native:** Arabic, Spanish
-* **Fluent:** English, Japanese (*N2 Certified*)
-* **Advanced:** French, Italian, Portuguese
-* **Intermediate:** German
+* **Native:** Arabic, Spanish.
+* **Fluent:** English.
+* **Advanced:** French, , Japanese (*N2 Certified*).
+* **Business-Level:** German, Italian, Portuguese.
   
 ---
 
 ### 📬 Connect
-[💼 LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) • [⭐ Portfolio](https://marhos.vercel.app) • [📧 Email](mailto:marwane.hosni@gmail.com)
+[💼 LinkedIn](https://linkedin.com/in/marwanehosni) • [⭐ Portfolio](https://marhos.vercel.app) • [📧 Email](mailto:marwane.hosni@gmail.com)
