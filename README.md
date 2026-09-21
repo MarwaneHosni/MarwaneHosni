@@ -141,24 +141,12 @@ I mainly work across **full-stack development**, with a particular interest in *
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MarwaneHosni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=12" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaneHosni&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=MarwaneHosni&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarwaneHosni&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Contribution graph" width="100%" />
+![](https://github-readme-stats.shion.dev/api?username=MarwaneHosni&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=MarwaneHosni&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MarwaneHosni&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
-<details>
-<summary><b>🏆 Trophies</b></summary>
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarwaneHosni&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
-</div>
-
-</details>
 
 <br/>
 
