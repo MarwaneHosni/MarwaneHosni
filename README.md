@@ -28,7 +28,7 @@ I'm a **Software Engineering graduate** who enjoys building practical software, 
 
 I mainly work across **full-stack development**, with a particular interest in **backend systems, data, and interactive applications**. Outside of code, I'm fascinated by **geography, space, languages, and learning about different parts of the world**.
 
-<table>
+<table align="center">
   <tr>
     <td>🎓 <b>Education</b></td>
     <td>BSc Software Engineering: Cardiff Metropolitan University</td>
