@@ -31,11 +31,8 @@ I mainly work across **full-stack development**, with a particular interest in *
 <table>
   <tr>
     <td>🎓 <b>Education</b></td>
+    <td>Bachillerato de Ciencias: Instituto Severo Ochoa</td>
     <td>BSc Software Engineering: Cardiff Metropolitan University</td>
-  </tr>
-  <tr>
-    <td>🇩🇪 <b>German</b></td>
-    <td>Goethe-Zertifikat C1: exam taken, result pending</td>
   </tr>
   <tr>
     <td>💻 <b>Experience</b></td>
