@@ -31,7 +31,6 @@ I mainly work across **full-stack development**, with a particular interest in *
 <table>
   <tr>
     <td>🎓 <b>Education</b></td>
-    <td>Bachillerato de Ciencias: Instituto Severo Ochoa</td>
     <td>BSc Software Engineering: Cardiff Metropolitan University</td>
   </tr>
   <tr>
