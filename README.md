@@ -59,53 +59,55 @@ My technical focus centers on **circuit design & simulation (KiCad, LTspice), in
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 
-## 🚀 Systems, Physics & Featured Projects
+## 🚀 Featured Projects
 
 <table>
+  <!-- ROW 1: ELECTRONICS & AUTOMATION (FEATURED FIRST) -->
   <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Active Filter & Sensor Conditioning</h3>
+      <sub><b>KiCad PCB Design & LTspice Simulation</b></sub>
+      <p>Design and simulation of active analog signal filters and power supply regulation. Includes full schematic capture, SPICE transient analysis, and 2-layer PCB trace routing in KiCad.</p>
+      <a href="https://github.com/MarwaneHosni"><img src="https://img.shields.io/badge/View_Repo-→-059669?style=for-the-badge&logo=kicad&logoColor=white" alt="PCB Project" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏭 PLC Industrial Conveyor Logic</h3>
+      <sub><b>CODESYS & Structured Text (IEC 61131-3)</b></sub>
+      <p>Automated industrial state-machine control system. Features interlocked motor safety logic, sensor/actuator event handling, and fault-detection routing written in Structured Text.</p>
+      <a href="https://github.com/MarwaneHosni"><img src="https://img.shields.io/badge/View_Repo-→-0284c7?style=for-the-badge&logo=codesys&logoColor=white" alt="PLC Project" /></a>
+    </td>
+  </tr>
+  <!-- ROW 2: ELECTRONICS & PHYSICS SIMULATOR -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📟 MCU Sensor Node & Telemetry</h3>
+      <sub><b>Wokwi & Embedded C/C++ Prototype</b></sub>
+      <p>Virtual microcontroller sensor acquisition prototype. Features ADC sampling, I2C digital sensor polling, noise filtering algorithms, and real-time UART serial telemetry output.</p>
+      <a href="https://github.com/MarwaneHosni"><img src="https://img.shields.io/badge/View_Repo-→-d97706?style=for-the-badge" alt="MCU Project" /></a>
+    </td>
     <td width="50%" valign="top">
       <h3>🧑‍🚀 Cosmos Playpen</h3>
       <sub><b>Orbital Physics & Gravitational Simulator</b></sub>
-      <p>Interactive multi-body physical system simulator modeling gravitational forces, trajectories, and orbital mechanics in real-time.</p>
+      <p>Interactive multi-body physical system simulator modeling gravitational forces, trajectories, and real-time orbital mechanics equations.</p>
       <a href="https://cosmosplaypen.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-4f46e5?style=for-the-badge" alt="Cosmos Playpen demo" /></a>
     </td>
+  </tr>
+  <!-- ROW 3: AUTOMATION & DATA PIPELINES -->
+  <tr>
     <td width="50%" valign="top">
       <h3>🤖 Orchestra</h3>
-      <sub><b>Multi-Agent Orchestration & Automation</b></sub>
-      <p>System orchestrator designed to route workflows, manage task state engines, and automate multi-threaded developer tasks.</p>
+      <sub><b>Multi-Agent Orchestration & State Engine</b></sub>
+      <p>System orchestrator designed to route complex workflows, manage task state engines, and automate multi-threaded developer pipelines.</p>
       <a href="https://orchestradev.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-7c3aed?style=for-the-badge" alt="Orchestra demo" /></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🗺️ BundesPulse</h3>
       <sub><b>Data Pipelines & Regional Monitoring</b></sub>
-      <p>Data visualization dashboard analyzing structural, regional, and technical indicators across Germany with automated data feeds.</p>
+      <p>Data visualization dashboard analyzing structural, regional, and technical indicators across Germany with automated public data feeds.</p>
       <a href="https://bundespulse.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-1d4ed8?style=for-the-badge" alt="BundesPulse demo" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>♾️ CSS Direct</h3>
-      <sub><b>Real-time Engine & Validation System</b></sub>
-      <p>Interactive visual builder backed by an automated evaluation engine that validates spatial geometry and UI parameters.</p>
-      <a href="https://cssdirect.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-0891b2?style=for-the-badge" alt="CSS Direct demo" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📖 Botsu</h3>
-      <sub><b>Spaced-Repetition System</b></sub>
-      <p>Centralized platform utilizing spaced-repetition algorithms to track progress, retention curves, and scheduled data review.</p>
-      <a href="https://botsu-ten.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-db2777?style=for-the-badge" alt="Botsu demo" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗾 YomuKey</h3>
-      <sub><b>High-Performance Text Analysis Tool</b></sub>
-      <p>Focused desktop/web text processing reader featuring instant tokenization and contextual dictionary lookups.</p>
-      <a href="https://yomu-key.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-dc2626?style=for-the-badge" alt="YomuKey demo" /></a>
     </td>
   </tr>
 </table>
-
 <br/>
 
 <!-- ═══════════════════════════ LANGUAGES ═══════════════════════════ -->
