@@ -2,13 +2,9 @@
 
 <div align="center">
 
-<div align="center">
-
 # Marwane Hosni
 
-**Software  · Full-Stack Web · Data & Automation**
-
-</div>
+**Software Engineering · Electronics & Simulation · Industrial Automation**
 
 <br/>
 
@@ -18,28 +14,26 @@
 
 </div>
 
-
-
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 
 ## 👋 About Me
 
-I'm a **Software Engineering graduate** who enjoys building practical software, experimenting with new ideas, and turning concepts into working applications.
+I am a **Software Engineering graduate** dedicated to bridging the gap between **software logic and physical hardware**. 
 
-I mainly work across **full-stack development**, with a particular interest in **backend systems, data, and interactive applications**. Outside of code, I'm fascinated by **geography, space, languages, and learning about different parts of the world**.
+My technical focus centers on **circuit design & simulation (KiCad, LTspice), industrial automation (CODESYS, Structured Text), embedded systems, and systematic debugging**. I leverage my software background to build robust data pipelines, model physical systems, and design software controls for real-world hardware.
 
 <table align="center">
   <tr>
     <td>🎓 <b>Education</b></td>
-    <td>BSc Software Engineering: Cardiff Metropolitan University</td>
+    <td>BSc (Hons) Software Engineering — Cardiff Metropolitan University (First Class)</td>
   </tr>
   <tr>
-    <td>💻 <b>Experience</b></td>
-    <td>Practical full-stack web development, from idea to production</td>
+    <td>⚡ <b>Core Focus</b></td>
+    <td>Electronics · Circuit Design · Automation · Embedded Logic & Systems</td>
   </tr>
   <tr>
-    <td>⚙️ <b>Interests</b></td>
-    <td>IT · Automation · Industrial systems · Data · Digitalization</td>
+    <td>⚙️ <b>Technical Interests</b></td>
+    <td>PCB Layout · Sensor Networks · PLC Steering · System Integration · Space & Physics</td>
   </tr>
 </table>
 
@@ -47,17 +41,17 @@ I mainly work across **full-stack development**, with a particular interest in *
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack & Tools
 
 <div align="center">
 
 | | |
 |:--|:--|
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
-| **Tools & Deploy** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| **Electronics & EDA** | ![KiCad](https://img.shields.io/badge/KiCad-314D79?style=flat-square&logo=kicad&logoColor=white) ![LTspice](https://img.shields.io/badge/LTspice-Simulation-800000?style=flat-square) ![CODESYS](https://img.shields.io/badge/CODESYS-PLC%20%2F%20ST-003366?style=flat-square) ![Wokwi](https://img.shields.io/badge/Wokwi-Simulation-00A86B?style=flat-square) |
+| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Systems & Automation**| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Web & API Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-System_Integration-005587?style=flat-square) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
 
 </div>
 
@@ -65,48 +59,48 @@ I mainly work across **full-stack development**, with a particular interest in *
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 
-## 🚀 Featured Projects
+## 🚀 Systems, Physics & Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🗺️ BundesPulse</h3>
-      <sub><b>Deutschland Digital Monitor</b></sub>
-      <p>Explore and compare regional statistics across Germany through interactive maps, charts, and public data.</p>
-      <a href="https://bundespulse.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-1d4ed8?style=for-the-badge" alt="BundesPulse demo" /></a>
+      <h3>🧑‍🚀 Cosmos Playpen</h3>
+      <sub><b>Orbital Physics & Gravitational Simulator</b></sub>
+      <p>Interactive multi-body physical system simulator modeling gravitational forces, trajectories, and orbital mechanics in real-time.</p>
+      <a href="https://cosmosplaypen.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-4f46e5?style=for-the-badge" alt="Cosmos Playpen demo" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 Orchestra</h3>
-      <sub><b>AI Development Orchestrator</b></sub>
-      <p>AI-powered software development orchestrator designed to coordinate development tasks and workflows.</p>
+      <sub><b>Multi-Agent Orchestration & Automation</b></sub>
+      <p>System orchestrator designed to route workflows, manage task state engines, and automate multi-threaded developer tasks.</p>
       <a href="https://orchestradev.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-7c3aed?style=for-the-badge" alt="Orchestra demo" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>♾️ CSS Direct</h3>
-      <sub><b>Learn CSS by building it</b></sub>
-      <p>Drag components, apply live CSS, and get graded by a real validation engine.</p>
-      <a href="https://cssdirect.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-0891b2?style=for-the-badge" alt="CSS Direct demo" /></a>
+      <h3>🗺️ BundesPulse</h3>
+      <sub><b>Data Pipelines & Regional Monitoring</b></sub>
+      <p>Data visualization dashboard analyzing structural, regional, and technical indicators across Germany with automated data feeds.</p>
+      <a href="https://bundespulse.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-1d4ed8?style=for-the-badge" alt="BundesPulse demo" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>📖 Botsu</h3>
-      <sub><b>Immersive language learning</b></sub>
-      <p>A centralized platform for immersive language learning.</p>
-      <a href="https://botsu-ten.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-db2777?style=for-the-badge" alt="Botsu demo" /></a>
+      <h3>♾️ CSS Direct</h3>
+      <sub><b>Real-time Engine & Validation System</b></sub>
+      <p>Interactive visual builder backed by an automated evaluation engine that validates spatial geometry and UI parameters.</p>
+      <a href="https://cssdirect.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-0891b2?style=for-the-badge" alt="CSS Direct demo" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧑‍🚀 Cosmos Playpen</h3>
-      <sub><b>Orbital system simulator</b></sub>
-      <p>Interactive celestial orbital system simulator.</p>
-      <a href="https://cosmosplaypen.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-4f46e5?style=for-the-badge" alt="Cosmos Playpen demo" /></a>
+      <h3>📖 Botsu</h3>
+      <sub><b>Spaced-Repetition System</b></sub>
+      <p>Centralized platform utilizing spaced-repetition algorithms to track progress, retention curves, and scheduled data review.</p>
+      <a href="https://botsu-ten.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-db2777?style=for-the-badge" alt="Botsu demo" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🗾 YomuKey</h3>
-      <sub><b>EPUB reader for Japanese learners</b></sub>
-      <p>An EPUB reader designed specifically for people learning Japanese.</p>
+      <sub><b>High-Performance Text Analysis Tool</b></sub>
+      <p>Focused desktop/web text processing reader featuring instant tokenization and contextual dictionary lookups.</p>
       <a href="https://yomu-key.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-dc2626?style=for-the-badge" alt="YomuKey demo" /></a>
     </td>
   </tr>
@@ -116,16 +110,16 @@ I mainly work across **full-stack development**, with a particular interest in *
 
 <!-- ═══════════════════════════ LANGUAGES ═══════════════════════════ -->
 
-## 🌍 Languages I Speak
+## 🌍 Languages
 
 <div align="center">
 
 | Level | Languages |
 |:--|:--|
 | 🏠 **Native** | 🇲🇦 Arabic · 🇪🇸 Spanish |
-| 🗣️ **Fluent** | 🇬🇧 English |
-| 📚 **Advanced** | 🇩🇪 German *(C1 exam taken)* · 🇫🇷 French · 🇯🇵 Japanese *(JLPT N2)* |
-| 🌱 **Other** | 🇮🇹 Italian · 🇵🇹 Portuguese |
+| 🗣️ **C2 Level** | 🇬🇧 English *(Degree completed in English)* |
+| 📜 **C1 Level** | 🇩🇪 German *(Goethe-Zertifikat C1)* |
+| 📚 **B2 / Other** | 🇫🇷 French · 🇯🇵 Japanese *(JLPT N2)* · 🇮🇹 Italian · 🇵🇹 Portuguese |
 
 </div>
 
@@ -133,7 +127,7 @@ I mainly work across **full-stack development**, with a particular interest in *
 
 <!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
 
-## 📊 GitHub Stats
+## 📊 Systems & Activity
 
 <div align="center">
 
@@ -143,16 +137,15 @@ I mainly work across **full-stack development**, with a particular interest in *
 
 </div>
 
-
 <br/>
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 
-## 📬 Let's Connect
+## 📬 Contact & Connectivity
 
 <div align="center">
 
-I'm always happy to chat about software, automation, data, or languages, so feel free to reach out.
+I'm always open to discussing electronics, PLC automation, embedded systems, or software architecture.
 
 <a href="https://linkedin.com/in/marwanehosni"><img src="https://img.shields.io/badge/LinkedIn-marwanehosni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://marhos.vercel.app"><img src="https://img.shields.io/badge/Portfolio-marhos.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -161,6 +154,3 @@ I'm always happy to chat about software, automation, data, or languages, so feel
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,50%:1d4ed8,100%:0f172a&section=footer" alt="footer wave" />
 
 </div>
-
-
-
