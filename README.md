@@ -68,13 +68,13 @@ My technical focus centers on **circuit design & simulation (KiCad, LTspice), in
       <h3>⚡ Active Filter & Sensor Conditioning</h3>
       <sub><b>KiCad PCB Design & LTspice Simulation</b></sub>
       <p>Design and simulation of active analog signal filters and power supply regulation. Includes full schematic capture, SPICE transient analysis, and 2-layer PCB trace routing in KiCad.</p>
-      <a href="https://github.com/MarwaneHosni"><img src="https://img.shields.io/badge/View_Repo-→-059669?style=for-the-badge&logo=kicad&logoColor=white" alt="PCB Project" /></a>
+      <a href="[https://github.com/MarwaneHosni](https://github.com/MarwaneHosni/Elektronisches-Temperatur-berwachungs-und-Alarmsystem)"><img src="https://img.shields.io/badge/View_Repo-→-059669?style=for-the-badge&logo=kicad&logoColor=white" alt="PCB Project" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🏭 PLC Industrial Conveyor Logic</h3>
       <sub><b>CODESYS & Structured Text (IEC 61131-3)</b></sub>
       <p>Automated industrial state-machine control system. Features interlocked motor safety logic, sensor/actuator event handling, and fault-detection routing written in Structured Text.</p>
-      <a href="https://github.com/MarwaneHosni"><img src="https://img.shields.io/badge/View_Repo-→-0284c7?style=for-the-badge&logo=codesys&logoColor=white" alt="PLC Project" /></a>
+      <a href="[https://github.com/MarwaneHosni](https://github.com/MarwaneHosni/Simulierte-Foerderanlagensteuerung)"><img src="https://img.shields.io/badge/View_Repo-→-0284c7?style=for-the-badge&logo=codesys&logoColor=white" alt="PLC Project" /></a>
     </td>
   </tr>
   <!-- ROW 2: ELECTRONICS & PHYSICS SIMULATOR -->
@@ -83,7 +83,7 @@ My technical focus centers on **circuit design & simulation (KiCad, LTspice), in
       <h3>📟 MCU Sensor Node & Telemetry</h3>
       <sub><b>Wokwi & Embedded C/C++ Prototype</b></sub>
       <p>Virtual microcontroller sensor acquisition prototype. Features ADC sampling, I2C digital sensor polling, noise filtering algorithms, and real-time UART serial telemetry output.</p>
-      <a href="https://github.com/MarwaneHosni"><img src="https://img.shields.io/badge/View_Repo-→-d97706?style=for-the-badge" alt="MCU Project" /></a>
+      <a [href="https://github.com/MarwaneHosni"](https://github.com/MarwaneHosni/Automatisierte-Tank-und-Pumpensteuerung)><img src="https://img.shields.io/badge/View_Repo-→-d97706?style=for-the-badge" alt="MCU Project" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🧑‍🚀 Cosmos Playpen</h3>
