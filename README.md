@@ -125,7 +125,7 @@ I mainly work across **full-stack development**, with a particular interest in *
 |:--|:--|
 | 🏠 **Native** | 🇲🇦 Arabic · 🇪🇸 Spanish |
 | 🗣️ **Fluent** | 🇬🇧 English |
-| 📚 **Advanced** | 🇩🇪 German *(C1 exam taken)* · 🇫🇷 French · 🇯🇵 Japanese *(JLPT N2)* |
+| 📚 **Advanced** | 🇩🇪 German *(C1)* · 🇫🇷 French · 🇯🇵 Japanese *(JLPT N2)* |
 | 🌱 **Other** | 🇮🇹 Italian · 🇵🇹 Portuguese |
 
 </div>
