@@ -2,13 +2,9 @@
 
 <div align="center">
 
-<div align="center">
-
 # Marwane Hosni
 
 **Software  · Full-Stack Web · Data & Automation**
-
-</div>
 
 <br/>
 
@@ -18,9 +14,13 @@
 
 </div>
 
+<br/>
 
+<!-- ═══════════════════════════ ROW 1: ABOUT & TECH STACK ═══════════════════════════ -->
 
-<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 👋 About Me
 
@@ -28,8 +28,9 @@ I'm a **Software Engineering graduate** who enjoys building practical software, 
 
 I mainly work across **full-stack development**, with a particular interest in **backend systems, data, and interactive applications**. Outside of code, I'm fascinated by **geography, space, languages, and learning about different parts of the world**.
 
-<table>
-<table align="center">
+<br/>
+
+<table align="center" width="100%">
 <tr>
 <td>🎓 <b>Education</b></td>
 <td>BSc Software Engineering: Cardiff Metropolitan University</td>
@@ -44,9 +45,8 @@ I mainly work across **full-stack development**, with a particular interest in *
 </tr>
 </table>
 
-<br/>
-
-<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+</td>
+<td width="50%" valign="top">
 
 ## 🛠️ Tech Stack
 
@@ -62,45 +62,68 @@ I mainly work across **full-stack development**, with a particular interest in *
 
 </div>
 
+</td>
+</tr>
+</table>
+
 <br/>
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 
 ## 🚀 Featured Projects
 
-### 🗺️ BundesPulse
-<sub><b>Deutschland Digital Monitor</b></sub>  
-Explore and compare regional statistics across Germany through interactive maps, charts, and public data.  
-<a href="https://bundespulse.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-1d4ed8?style=for-the-badge" alt="BundesPulse demo" /></a>
-
-### 🤖 Orchestra
-<sub><b>AI Development Orchestrator</b></sub>  
-AI-powered software development orchestrator designed to coordinate development tasks and workflows.  
-<a href="https://orchestradev.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-7c3aed?style=for-the-badge" alt="Orchestra demo" /></a>
-
-### ♾️ CSS Direct
-<sub><b>Learn CSS by building it</b></sub>  
-Drag components, apply live CSS, and get graded by a real validation engine.  
-<a href="https://cssdirect.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-0891b2?style=for-the-badge" alt="CSS Direct demo" /></a>
-
-### 📖 Botsu
-<sub><b>Immersive language learning</b></sub>  
-A centralized platform for immersive language learning.  
-<a href="https://botsu-ten.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-db2777?style=for-the-badge" alt="Botsu demo" /></a>
-
-### 🧑‍🚀 Cosmos Playpen
-<sub><b>Orbital system simulator</b></sub>  
-Interactive celestial orbital system simulator.  
-<a href="https://cosmosplaypen.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-4f46e5?style=for-the-badge" alt="Cosmos Playpen demo" /></a>
-
-### 🗾 YomuKey
-<sub><b>EPUB reader for Japanese learners</b></sub>  
-An EPUB reader designed specifically for people learning Japanese.  
-<a href="https://yomu-key.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-dc2626?style=for-the-badge" alt="YomuKey demo" /></a>
+<table>
+<tr>
+<td width="50%" valign="top">
+ <h3>🗺️ BundesPulse</h3>
+ <sub><b>Deutschland Digital Monitor</b></sub>
+ <p>Explore and compare regional statistics across Germany through interactive maps, charts, and public data.</p>
+ <a href="https://bundespulse.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-1d4ed8?style=for-the-badge" alt="BundesPulse demo" /></a>
+</td>
+<td width="50%" valign="top">
+ <h3>🤖 Orchestra</h3>
+ <sub><b>AI Development Orchestrator</b></sub>
+ <p>AI-powered software development orchestrator designed to coordinate development tasks and workflows.</p>
+ <a href="https://orchestradev.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-7c3aed?style=for-the-badge" alt="Orchestra demo" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+ <h3>♾️ CSS Direct</h3>
+ <sub><b>Learn CSS by building it</b></sub>
+ <p>Drag components, apply live CSS, and get graded by a real validation engine.</p>
+ <a href="https://cssdirect.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-0891b2?style=for-the-badge" alt="CSS Direct demo" /></a>
+</td>
+<td width="50%" valign="top">
+ <h3>📖 Botsu</h3>
+ <sub><b>Immersive language learning</b></sub>
+ <p>A centralized platform for immersive language learning.</p>
+ <a href="https://botsu-ten.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-db2777?style=for-the-badge" alt="Botsu demo" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+ <h3>🧑‍🚀 Cosmos Playpen</h3>
+ <sub><b>Orbital system simulator</b></sub>
+ <p>Interactive celestial orbital system simulator.</p>
+ <a href="https://cosmosplaypen.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-4f46e5?style=for-the-badge" alt="Cosmos Playpen demo" /></a>
+</td>
+<td width="50%" valign="top">
+ <h3>🗾 YomuKey</h3>
+ <sub><b>EPUB reader for Japanese learners</b></sub>
+ <p>An EPUB reader designed specifically for people learning Japanese.</p>
+ <a href="https://yomu-key.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-dc2626?style=for-the-badge" alt="YomuKey demo" /></a>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- ═══════════════════════════ LANGUAGES ═══════════════════════════ -->
+<!-- ═══════════════════════════ ROW 2: LANGUAGES & STATS ═══════════════════════════ -->
+
+<table>
+<tr>
+<td width="40%" valign="top">
 
 ## 🌍 Languages I Speak
 
@@ -110,14 +133,13 @@ An EPUB reader designed specifically for people learning Japanese.
 |:--|:--|
 | 🏠 **Native** | 🇲🇦 Arabic · 🇪🇸 Spanish |
 | 🗣️ **Fluent** | 🇬🇧 English |
-| 📚 **Advanced** | 🇩🇪 German *(C1)* · 🇫🇷 French · 🇯🇵 Japanese *(JLPT N2)* |
+| 📚 **Advanced** | 🇩🇪 German *(C1)* <br/> 🇫🇷 French <br/> 🇯🇵 Japanese *(JLPT N2)* |
 | 🌱 **Other** | 🇮🇹 Italian · 🇵🇹 Portuguese |
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
+</td>
+<td width="60%" valign="top">
 
 ## 📊 GitHub Stats
 
@@ -129,6 +151,9 @@ An EPUB reader designed specifically for people learning Japanese.
 
 </div>
 
+</td>
+</tr>
+</table>
 
 <br/>
 
