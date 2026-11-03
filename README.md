@@ -68,50 +68,35 @@ I mainly work across **full-stack development**, with a particular interest in *
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
- <h3>🗺️ BundesPulse</h3>
- <sub><b>Deutschland Digital Monitor</b></sub>
- <p>Explore and compare regional statistics across Germany through interactive maps, charts, and public data.</p>
- <a href="https://bundespulse.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-1d4ed8?style=for-the-badge" alt="BundesPulse demo" /></a>
-</td>
-<td width="50%" valign="top">
- <h3>🤖 Orchestra</h3>
- <sub><b>AI Development Orchestrator</b></sub>
- <p>AI-powered software development orchestrator designed to coordinate development tasks and workflows.</p>
- <a href="https://orchestradev.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-7c3aed?style=for-the-badge" alt="Orchestra demo" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
- <h3>♾️ CSS Direct</h3>
- <sub><b>Learn CSS by building it</b></sub>
- <p>Drag components, apply live CSS, and get graded by a real validation engine.</p>
- <a href="https://cssdirect.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-0891b2?style=for-the-badge" alt="CSS Direct demo" /></a>
-</td>
-<td width="50%" valign="top">
- <h3>📖 Botsu</h3>
- <sub><b>Immersive language learning</b></sub>
- <p>A centralized platform for immersive language learning.</p>
- <a href="https://botsu-ten.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-db2777?style=for-the-badge" alt="Botsu demo" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
- <h3>🧑‍🚀 Cosmos Playpen</h3>
- <sub><b>Orbital system simulator</b></sub>
- <p>Interactive celestial orbital system simulator.</p>
- <a href="https://cosmosplaypen.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-4f46e5?style=for-the-badge" alt="Cosmos Playpen demo" /></a>
-</td>
-<td width="50%" valign="top">
- <h3>🗾 YomuKey</h3>
- <sub><b>EPUB reader for Japanese learners</b></sub>
- <p>An EPUB reader designed specifically for people learning Japanese.</p>
- <a href="https://yomu-key.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-dc2626?style=for-the-badge" alt="YomuKey demo" /></a>
-</td>
-</tr>
-</table>
+### 🗺️ BundesPulse
+<sub><b>Deutschland Digital Monitor</b></sub>  
+Explore and compare regional statistics across Germany through interactive maps, charts, and public data.  
+<a href="https://bundespulse.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-1d4ed8?style=for-the-badge" alt="BundesPulse demo" /></a>
+
+### 🤖 Orchestra
+<sub><b>AI Development Orchestrator</b></sub>  
+AI-powered software development orchestrator designed to coordinate development tasks and workflows.  
+<a href="https://orchestradev.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-7c3aed?style=for-the-badge" alt="Orchestra demo" /></a>
+
+### ♾️ CSS Direct
+<sub><b>Learn CSS by building it</b></sub>  
+Drag components, apply live CSS, and get graded by a real validation engine.  
+<a href="https://cssdirect.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-0891b2?style=for-the-badge" alt="CSS Direct demo" /></a>
+
+### 📖 Botsu
+<sub><b>Immersive language learning</b></sub>  
+A centralized platform for immersive language learning.  
+<a href="https://botsu-ten.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-db2777?style=for-the-badge" alt="Botsu demo" /></a>
+
+### 🧑‍🚀 Cosmos Playpen
+<sub><b>Orbital system simulator</b></sub>  
+Interactive celestial orbital system simulator.  
+<a href="https://cosmosplaypen.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-4f46e5?style=for-the-badge" alt="Cosmos Playpen demo" /></a>
+
+### 🗾 YomuKey
+<sub><b>EPUB reader for Japanese learners</b></sub>  
+An EPUB reader designed specifically for people learning Japanese.  
+<a href="https://yomu-key.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-→-dc2626?style=for-the-badge" alt="YomuKey demo" /></a>
 
 <br/>
 
@@ -162,5 +147,3 @@ I'm always happy to chat about software, automation, data, or languages, so feel
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,50%:1d4ed8,100%:0f172a&section=footer" alt="footer wave" />
 
 </div>
-
-
